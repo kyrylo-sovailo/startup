@@ -1,0 +1,1 @@
+Small utility for program startup. It sets PATH to program's subdirectories so that Windows can find DLLs there.
